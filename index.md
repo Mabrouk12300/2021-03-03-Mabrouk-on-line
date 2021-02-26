@@ -49,7 +49,7 @@ need any extra information.
 </div>
 
 {% comment %}
-8< ============================= until here ==================
+
 {% endcomment %}
 
 
